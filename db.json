@@ -2,30 +2,34 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "My Post 1"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "My Post 2"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "My Post 3"
+    },
+    {
+      "id": 4,
+      "title": "My Post 4"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "My comment 1",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "My comment 2",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Shahidur"
   }
 }
